@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi I'm Francky 👋
+
+I'm a data analyst with a backgournd in Finanace who loves turning rwa data into clear and actionable insightd.
+
+## My focus
+Data visualization | Storytelling with data | Business Intelligence |
+Python | SQL|
+
+## Feature Projects
+- Analytics Capstone
+- Visualization Dashboards
+  
 
 <!--
 **Francky70/Francky70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
